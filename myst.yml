@@ -1,0 +1,18 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 511ece13-876d-488f-bce9-336a54152da5
+  # title: Learn Quantum Computing with PennyLane
+  # description: A book to learn quantum computing with PennyLane
+  # keywords: [ quantum computing, PennyLane, quantum circuits, quantum algorithms ]
+  # authors: [ Rajesh Kumar Karra ]
+  # license: CC BY-NC-SA 4.0
+  # license_url: https://creativecommons.org/licenses/by-nc-sa/4.0/
+  # repository: 
+  github: https://github.com/rajeshkumarkarra/Learn-Quantum-Computing-with-Pennylane
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+site:
+  template: book-theme
+  # options:
+  #   favicon: pennylane.png
+  #   logo: pennylane.png
